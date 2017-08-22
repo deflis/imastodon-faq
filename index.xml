@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>アイマストドンFAQ</title>
+    <link>http://faq.imastodon.net/</link>
+    <description>Recent content on アイマストドンFAQ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    
+	<atom:link href="http://faq.imastodon.net/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://faq.imastodon.net/_header/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/_header/</guid>
+      <description>アイマストドンFAQ</description>
+    </item>
+    
+    <item>
+      <title>Q.アイマストドンでbot（自動投稿）がしたい！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/bot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/bot/</guid>
+      <description>A. 定期投稿をしたいならば マストボット というサービスがあります。
+ただし、自動投稿・bot作成にはガイドラインがあります。 詳しくは、 「サーバー情報」ページ をご覧ください。</description>
+    </item>
+    
+    <item>
+      <title>Q.アイマストドン以外のインスタンスから通知が色々来るんだけど。</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/instance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/instance/</guid>
+      <description>A. マストドンは違うインスタンスともつながることが出来ます。</description>
+    </item>
+    
+    <item>
+      <title>Q.ネタバレ防止投稿がしたい！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/cw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/cw/</guid>
+      <description>A.トゥート欄下のCWを押して前書き欄を表示、『ネタバレ注意』と書いて、本文にネタバレを書いてトゥートします</description>
+    </item>
+    
+    <item>
+      <title>Q.ユーザのブロック・ミュートをしたい！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/block/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/block/</guid>
+      <description>A.ブロックしたいユーザのプロフィールを開き、投稿数左側の『三』マークから『(ユーザー名)をブロック』を押します。</description>
+    </item>
+    
+    <item>
+      <title>Q.写真を隠したい！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/nsfw/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/nsfw/</guid>
+      <description>A.カメラマークから写真をアップロードしたあと、CW横にある『NSFW』を押してトゥートします</description>
+    </item>
+    
+    <item>
+      <title>Q.特定の単語をミュートしたい！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/mute/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/mute/</guid>
+      <description>各TLの右上にある歯車アイコンを押すと、TLの設定が開きます。
+その中のミュートするキーワード欄に縦棒「|」区切りで書いてください。</description>
+    </item>
+    
+    <item>
+      <title>Q.知らないユーザに投稿を見られたくない！</title>
+      <link>http://faq.imastodon.net/gyakubiki-faq/visibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://faq.imastodon.net/gyakubiki-faq/visibility/</guid>
+      <description>A.トゥート欄下の地球マークから公開範囲で『非公開』を選んでトゥートします。
+それだけではフォローされると見ることが出来てしまうので、知らないユーザから完全に</description>
+    </item>
+    
+  </channel>
+</rss>
